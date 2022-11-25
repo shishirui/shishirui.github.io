@@ -8,7 +8,7 @@ My name is Rex Shi. I have the following qualities:
 
 - I have a great interest in computer programming and creating softwares
 - I'm extremely loyal to my family
-- I am introverted and do not like to deal with people
+- I'm introverted and do not like to deal with people
 
 What else do you need?
 
