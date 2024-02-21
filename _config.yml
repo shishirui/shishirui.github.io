@@ -21,9 +21,6 @@ author: Rex Shi
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://rexshi.com"
 
 ################
 # --- Logo --- #
