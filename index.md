@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: Rex Shi
 subtitle: Nice to meet you
 ---
 
