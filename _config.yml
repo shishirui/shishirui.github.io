@@ -20,7 +20,6 @@ author: Rex Shi
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
 
 ################
 # --- Logo --- #
@@ -96,7 +95,7 @@ url-pretty: "rexshi.com"
 excerpt_length: 500
 
 # Whether or not to show an excerpt for every blog post in the feed page
-feed_show_excerpt: true
+feed_show_excerpt: false
 
 # Whether or not to show a list of tags below each post preview in the feed page
 feed_show_tags: false
